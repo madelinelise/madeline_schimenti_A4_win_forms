@@ -1,0 +1,9 @@
+C:\Users\Madeline\Documents\Visual Studio 2015\Projects\madeline_schimenti_A4_win_forms\madeline_schimenti_A3_win_forms\bin\Debug\madeline_schimenti_A3_win_forms.exe.config
+C:\Users\Madeline\Documents\Visual Studio 2015\Projects\madeline_schimenti_A4_win_forms\madeline_schimenti_A3_win_forms\obj\Debug\madeline_schimenti_A3_win_forms.exe
+C:\Users\Madeline\Documents\Visual Studio 2015\Projects\madeline_schimenti_A4_win_forms\madeline_schimenti_A3_win_forms\obj\Debug\madeline_schimenti_A3_win_forms.pdb
+C:\Users\Madeline\Documents\Visual Studio 2015\Projects\madeline_schimenti_A4_win_forms\madeline_schimenti_A3_win_forms\bin\Debug\madeline_schimenti_A3_win_forms.exe
+C:\Users\Madeline\Documents\Visual Studio 2015\Projects\madeline_schimenti_A4_win_forms\madeline_schimenti_A3_win_forms\bin\Debug\madeline_schimenti_A3_win_forms.pdb
+C:\Users\Madeline\Documents\Visual Studio 2015\Projects\madeline_schimenti_A4_win_forms\madeline_schimenti_A3_win_forms\obj\Debug\madeline_schimenti_A4_win_forms.csprojResolveAssemblyReference.cache
+C:\Users\Madeline\Documents\Visual Studio 2015\Projects\madeline_schimenti_A4_win_forms\madeline_schimenti_A3_win_forms\obj\Debug\madeline_schimenti_A3_win_forms.Form1.resources
+C:\Users\Madeline\Documents\Visual Studio 2015\Projects\madeline_schimenti_A4_win_forms\madeline_schimenti_A3_win_forms\obj\Debug\madeline_schimenti_A3_win_forms.Properties.Resources.resources
+C:\Users\Madeline\Documents\Visual Studio 2015\Projects\madeline_schimenti_A4_win_forms\madeline_schimenti_A3_win_forms\obj\Debug\madeline_schimenti_A4_win_forms.csproj.GenerateResource.Cache
