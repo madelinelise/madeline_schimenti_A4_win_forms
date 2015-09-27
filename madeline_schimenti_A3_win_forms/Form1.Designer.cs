@@ -36,6 +36,7 @@
             this.labelPowerResult = new System.Windows.Forms.Label();
             this.listBoxPrime = new System.Windows.Forms.ListBox();
             this.buttonPrime = new System.Windows.Forms.Button();
+            this.buttonClear = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // textBoxBase
@@ -101,7 +102,7 @@
             // buttonPrime
             // 
             this.buttonPrime.Font = new System.Drawing.Font("MS Reference Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonPrime.Location = new System.Drawing.Point(298, 24);
+            this.buttonPrime.Location = new System.Drawing.Point(253, 24);
             this.buttonPrime.Name = "buttonPrime";
             this.buttonPrime.Size = new System.Drawing.Size(75, 23);
             this.buttonPrime.TabIndex = 7;
@@ -109,11 +110,23 @@
             this.buttonPrime.UseVisualStyleBackColor = true;
             this.buttonPrime.Click += new System.EventHandler(this.button1_Click);
             // 
+            // buttonClear
+            // 
+            this.buttonClear.Font = new System.Drawing.Font("MS Reference Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonClear.Location = new System.Drawing.Point(342, 24);
+            this.buttonClear.Name = "buttonClear";
+            this.buttonClear.Size = new System.Drawing.Size(75, 23);
+            this.buttonClear.TabIndex = 8;
+            this.buttonClear.Text = "Clear";
+            this.buttonClear.UseVisualStyleBackColor = true;
+            this.buttonClear.Click += new System.EventHandler(this.buttonClear_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(479, 261);
+            this.Controls.Add(this.buttonClear);
             this.Controls.Add(this.buttonPrime);
             this.Controls.Add(this.listBoxPrime);
             this.Controls.Add(this.labelPowerResult);
@@ -139,6 +152,7 @@
         private System.Windows.Forms.Label labelPowerResult;
         private System.Windows.Forms.ListBox listBoxPrime;
         private System.Windows.Forms.Button buttonPrime;
+        private System.Windows.Forms.Button buttonClear;
     }
 }
 

@@ -53,5 +53,10 @@ namespace madeline_schimenti_A3_win_forms
             }
 
         }
+
+        private void buttonClear_Click(object sender, EventArgs e)
+        {
+            listBoxPrime.Items.Clear();
+        }
     }
 }
