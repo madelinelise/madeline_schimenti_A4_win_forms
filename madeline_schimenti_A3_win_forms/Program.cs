@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace madeline_schimenti_A3_win_forms
+namespace madeline_schimenti_A4_win_forms
 {
     static class Program
     {
